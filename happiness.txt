@@ -8,3 +8,4 @@ thanks
 testing again
 	with this
 	doing from remote repository
+doing this from locap repo
